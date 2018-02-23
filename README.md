@@ -19,7 +19,9 @@ stock_quantity (how much of the product is available in stores)
 Populate this database with around 10 different products. (i.e. Insert "mock" data rows into this database and table).
 
 Then create a Node application called bamazonCustomer.js. Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
-![Customer App] (https://user-images.githubusercontent.com/32941263/36511390-809530de-1734-11e8-8d5f-3d53bb87827c.png)
+<img src="https://user-images.githubusercontent.com/32941263/36511390-809530de-1734-11e8-8d5f-3d53bb87827c.png" width="100%"></img> 
+
+![customer app] (https://user-images.githubusercontent.com/32941263/36511390-809530de-1734-11e8-8d5f-3d53bb87827c.png)
 
 The app should then prompt users with two messages.
 
