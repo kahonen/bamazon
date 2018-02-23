@@ -1,5 +1,5 @@
-Instructions
-Challenge #1: Customer View (Minimum Requirement)
+<h1>Instructions</h1>
+<h2>Challenge #1: Customer View </h2>
 Create a MySQL Database called bamazon.
 
 Then create a Table inside of that database called products.
@@ -39,7 +39,7 @@ Once the update goes through, show the customer the total cost of their purchase
 <img src="https://user-images.githubusercontent.com/32941263/36511392-80b940f0-1734-11e8-9b41-9770bcd8cd5f.png" width="100%"></img> 
 
 
-<strong>Challenge #2: Manager View </strong>
+<h2>Challenge #2: Manager View </h2>
 
 Create a new Node application called bamazonManager.js. Running this application will:
 
