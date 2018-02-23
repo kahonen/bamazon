@@ -27,7 +27,7 @@ Create a MySQL Database called bamazon.
 <img src="https://user-images.githubusercontent.com/32941263/36511391-80a475d0-1734-11e8-90ef-1e95860e3233.png" width="100%"></img> 
 
     *The second message should ask how many units of the product they would like to buy.
-Once the customer has placed the order, your application should check if your store has enough of the product to meet the customer's request.
+    *Once the customer has placed the order, your application should check if your store has enough of the product to meet the customer's request.
 <img src="https://user-images.githubusercontent.com/32941263/36511392-80b940f0-1734-11e8-9b41-9770bcd8cd5f.png" width="100%"></img> 
 
     *If not, the app should log a phrase like Insufficient quantity!, and then prevent the order from going through.
